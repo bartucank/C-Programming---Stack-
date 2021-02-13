@@ -1,2 +1,3 @@
 # C-Programming- Stack
-C Programming - Stack (push/pop)
+Stack Operations like Push, Pop and Print
+
