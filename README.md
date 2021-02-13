@@ -1,3 +1,2 @@
 # Stack - Linked List
-Stack Operations like Push, Pop and Print
-
+Some stack Operations like Push, pop and print.
